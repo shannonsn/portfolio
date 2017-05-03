@@ -1,0 +1,32 @@
+html{
+  background-image: url("http://www.pixelhub.me/pixelhub1/images/uploads/1385467739background_portfolio.jpg");
+  background-size: cover;
+}
+  h1{
+  font-size: 55px;
+  color: #cc6666;
+  text-align: center;
+}
+a{
+  color: red;
+  border: solid;
+  border-radius: 15px;
+  border-width: thin;
+  padding: 1px;
+}
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: gray;
+    background-size: cover;
+}
+p{
+  color: floralwhite;
+}
+#frontend{
+  /*background-color: rgba(255, 255, 255, 0.3);*/
+  float: left;
+}
+#backend{
+  float: right;
+}
